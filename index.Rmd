@@ -1,0 +1,15 @@
+---
+title: "Deanna Elliott"
+image: "Elliot_Deanna_mesm23.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: GitHub
+    url: "https://github.com/dbelliott"
+  - label: Email
+    url: "mailto:dbelliott@bren.ucsb.edu"
+output:
+  postcards::jolla
+site: distill::distill_website
+---
+I am currently a Masters student at the Bren School of Environmental Science and Management at UC Santa Barbara.

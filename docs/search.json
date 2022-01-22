@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-01-22T12:06:28-08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Deanna Elliott",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          \r\n          \r\n          \r\n          Home\r\n          About\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Deanna Elliott\r\n          \r\n          \r\n            \r\n              I am currently a Masters student at the Bren School of Environmental Science and Management at UC Santa Barbara.\r\n            \r\n            \r\n              I am currently a Masters student at the Bren School of Environmental Science and Management at UC Santa Barbara.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2022-01-22T12:06:29-08:00"
+    }
+  ],
+  "collections": []
+}
