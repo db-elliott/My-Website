@@ -2,19 +2,26 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "About Me",
+      "description": "Deanna Elliott graduated magna cum laude from Arizona State University in 2020. Her Bachelor’s degree in Biological Sciences focused on conservation biology and ecology. During her undergraduate career, she investigated how climate change may affect the development and behavior of agricultural pests. This led to her initial interest in environmental conservation. She later interned in the Marine Biology Department at the University of Connecticut. In their fish ecology lab, she explored whether the accumulation of heavy metals in fish could provide insight into the health of trophic webs. This experience led to her passion for combining ecological and political knowledge to improve ocean protections. She also considers indigenous stewardship an important and underutilized aspect of the conservation conversation. Ultimately, Deanna desires to develop fiscally feasible and community-oriented methods of ocean conservation while specializing in Economics and Politics of the Environment at the Bren School.",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-01-22T12:06:28-08:00"
+      "last_modified": "2022-02-15T14:05:45-08:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "Blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-15T14:05:56-08:00"
     },
     {
       "path": "index.html",
       "title": "Deanna Elliott",
       "author": [],
-      "contents": "\r\n\r\n          \r\n          \r\n          \r\n          \r\n          \r\n          Home\r\n          About\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Deanna Elliott\r\n          \r\n          \r\n            \r\n              I am currently a Masters student at the Bren School of Environmental Science and Management at UC Santa Barbara.\r\n            \r\n            \r\n              I am currently a Masters student at the Bren School of Environmental Science and Management at UC Santa Barbara.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
-      "last_modified": "2022-01-22T12:06:29-08:00"
+      "contents": "\r\n\r\n          \r\n          \r\n          \r\n          \r\n          \r\n          Home\r\n          About\r\n          Blog\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Deanna Elliott\r\n          \r\n          \r\n            \r\n              I am currently a Masters student at the Bren School of Environmental Science and Management at UC Santa Barbara.\r\n            \r\n            \r\n              I am currently a Masters student at the Bren School of Environmental Science and Management at UC Santa Barbara.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2022-02-15T14:05:57-08:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }
