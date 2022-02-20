@@ -1,0 +1,8 @@
+---
+title: "Curriculum Vitae"
+output: html_document
+---
+
+<a href = 'cv_elliott.pdf' target = '_blank'>Click here for a PDF</>
+
+CV

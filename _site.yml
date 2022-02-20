@@ -11,5 +11,7 @@ navbar:
       href: about.html
     - text: "Blog"      
       href: blog.html  
+    - text: "CV"
+      href: cv_elliott.pdf
 output: distill::distill_article
 theme: theme.css
