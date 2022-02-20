@@ -3,6 +3,6 @@ title: "Curriculum Vitae"
 output: html_document
 ---
 
-<a href = 'cv_elliott.pdf' target = '_blank'>Click here for a PDF</>
+<a href = 'cv_elliott.pdf' target = '_blank'>Click here for a PDF</a>
 
-CV
+CV text to be added

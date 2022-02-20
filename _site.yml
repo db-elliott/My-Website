@@ -9,9 +9,11 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Blog"      
-      href: blog.html  
     - text: "CV"
-      href: cv_elliott.pdf
+      href: cv.html
+    - text: "Portfolio"
+      href: project_example.html
+    - text: "Blog"      
+      href: blog.html 
 output: distill::distill_article
 theme: theme.css
