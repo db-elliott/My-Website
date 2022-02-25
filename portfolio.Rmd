@@ -1,0 +1,59 @@
+---
+title: "Portfolio"
+---
+
+### Historical Water Levels of Mono Lake
+
+```{r setup, include=FALSE, message = FALSE, warning = FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+
+library(tidyverse)
+library(here)
+library(janitor)
+```
+
+```{r}
+
+# read in data, skip first 5 rows
+
+lev <- read_csv(here("mono_lake_annual_levels.csv"), skip = 5) %>% 
+  clean_names()
+
+```
+
+```{r}
+
+# plot year vs lake level
+
+ggplot(data  = lev,
+       aes(x = year, y = lake_level_feet_above_sea_level)) +
+    geom_ribbon(data = lev  %>% 
+                  filter(lake_level_feet_above_sea_level <= 6392), aes(ymin =
+        lake_level_feet_above_sea_level, ymax = 6392), fill = "lightsalmon" , alpha = 0.5) +
+  geom_ribbon(data = lev %>% 
+              filter(lake_level_feet_above_sea_level > 6392), aes(ymin = 6392, ymax = lake_level_feet_above_sea_level), fill = "lightgreen", alpha = 0.5) +
+  geom_line(color = "royalblue1", size = 2) +
+  ylim(6355, 6430) +
+    scale_x_continuous(breaks = seq(from = 1850, to = 2015, by = 15)) +
+  labs(x = "Year", y = "Lake Level (ft above sea level)") +
+  theme_classic() +
+  annotate("text", x = 1940, y = 6401, label = "1941: Mono Lake\nis diverted to\nLos Angeles", size = 3) +
+  annotate("text", x = 1978, y = 6405, label = "1978: The Mono\nLake Committee\nis founded", size = 3) +
+   annotate("text", x = 1995, y = 6365, label = "1994: State Water Board\nset healthy lake level", size = 3) +
+  annotate("text", x = 2010, y = 6400, label = "2013: Mono Basin\nStream Restoration\nAgreement", size = 3) +
+  annotate("text", x = 1863, y = 6390, label = "6392 ft: Stable water level", size = 3) +
+   annotate("text", x = 1860, y = 6373, label = "6377 ft: Predators can\ncross to nesting sites", size = 3) +
+    annotate("text", x = 1867, y = 6356, label = "6360 ft: High salinity decreases\navailable food source", size = 3) +
+  annotate("pointrange", x = 1941, y = 6417, ymin = 6405, ymax = 6417, colour = "red", size = 0.5) +
+  annotate("pointrange", x = 1978, y = 6375, ymin = 6375, ymax = 6400, colour = "red", size = 0.5) +
+  annotate("pointrange", x = 1994, y = 6375, ymin = 6368, ymax = 6375, colour = "red", size = 0.5) +
+  annotate("pointrange", x = 2013, y = 6381, ymin = 6381, ymax = 6394, colour = "red", size = 0.5) +
+  geom_hline(yintercept=6377, linetype="longdash", color = "darkgreen") +
+  geom_hline(yintercept=6360, linetype="longdash", color = "darkgreen") +
+  geom_hline(yintercept=6392, linetype="longdash", color="darkgreen")
+  
+```
+   
+  
+**Figure 1. Yearly water level of Mono Lake.** Water level (in feet above sea level) of Mono Lake, a terminal saline lake in Lee Vining, CA, measured annually from 1850 - 2017. The blue line shows lake level, red points show important events in the recent history of Mono Lake, and dashed lines represent important water levels.
+

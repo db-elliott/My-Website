@@ -1,8 +1,139 @@
 ---
 title: "Curriculum Vitae"
-output: html_document
 ---
 
 <a href = 'cv_elliott.pdf' target = '_blank'>Click here for a PDF</a>
 
-CV text to be added
+  
+
+
+**EDUCATION**
+
+*University of California at Santa Barbara, June 2023*
+
+- Master of Environmental Science & Management
+
+*Arizona State University, May 2020*
+
+- Bachelor of Science in Biological Sciences — Conservation Biology & Ecology
+
+  - Graduated magna cum laude
+
+*Grossmont College, June 2014*
+
+- Associate of Science and Certificate in Forensic Technology
+
+  - Graduated with Honors
+
+
+**RESEARCH EXPERIENCE**
+
+*ASU School of Life Sciences: Dr. Michael Angilletta’s Thermal Adaptation Lab*
+
+Researcher / January 2018 — May 2020
+
+- Explore the hypothesis of oxygen- and capacity-limited thermal tolerance, as well as how temperature influences nutritional intake and growth efficiency in locusts
+
+*ASU School of Life Sciences: Dr. Sara Brownell’s Biology Education Research Lab*
+
+Researcher / August 2017 — May 2020
+
+- Investigate factors which cause students to leave their undergraduate research experience, as well as the effect of anxiety on undergraduate researchers
+
+*UConn Dept. of Marine Sciences: Dr. Hannes Baumann’s Evolutionary Fish Ecology Lab*
+
+Researcher / June 2019 — August 2019 
+
+- Determine whether bioaccumulated methylmercury in forage fish can be used as a proxy for lifetime food consumption in order to improve trophic ecosystem models
+
+**PUBLICATIONS**
+
+- Gin LE, Clark CE, **Elliott DB**, Roderick TB, Scott RA, Arellano D, Hunter JS, Ramirez D, Vargas C, Velarde K, Aeschliman A, Berkheimer J, Campos R, Cole S, Gerbasi M, Hughes S, Roberts J, White Q, Wittekind E, Zheng Y, Cooper KM, Brownell SE. (2021). An exploration across institution types of undergraduate life sciences student decisions to stay in or leave an academic-year research experience. CBE—Life Sciences Education, 20(3), ar47.
+
+- Youngblood JP, Vandenbrooks JM, Babarinde O, Donnay M, **Elliott DB**, Fredette-Roman J, Angilletta MJ. (2020). Oxygen supply limits the chronic heat tolerance of locusts during the first instar only. Journal of Insect Physiology, 127, 104157.
+
+- Cooper KM, Brownell SE, Gormally C, Auerbach AJ, Bader JD, Beadles-Bohling AS, Brashears J, Cline E, Eddy S, **Elliott DB**, Farley E, Fuselier L, Heinz HM, Josek T, Lane AK, Lo SM, Maloy J, Nugent M, Offerdahl E, Palacios-Moreno J, Ramos J, Reid JW, Sparks RA, Stephens MD, Waring AL, Wilton M. (2020). Fourteen recommendations to create a more inclusive environment for LGBTQ+ individuals in academic biology. CBE—Life Sciences Education, 19(3), es6.
+
+- Cooper KM, Gin LE, Akeeh BA, Clark CE, Hunter JS, Roderick TB, **Elliott DB**, Gutierrez LA, Mello RM, Pfeiffer LD, Scott RA, Arellano D, Ramirez D, Valdez EM, Vargas C, Velarde K, Esqueda J, Meeker M, Zheng Y, Brownell SE. (2019). Factors that predict life sciences student persistence in undergraduate research experiences. PLoS One, 14(8), e0220186. 
+
+**ORAL PRESENTATIONS**
+
+- **Elliott DB**, Baumann Z, Baumann H. Mercury as a proxy for food consumption in fish. Mystic Aquarium-UConn REU Symposium, Groton, CT, USA. August 2019.
+
+**POSTER PRESENTATIONS**
+
+- **Elliott DB**, Youngblood JP, Angilletta MJ, Cease AJ. Effects of temperature and nutrition on growth efficiency of the South American locust (Schistocerca cancellata) during the sixth instar. Experimental Biology, San Diego, CA, USA. April 2020. [Conference cancelled due to COVID-19.]
+
+- Gin LE, **Elliott DB*. LEAPing into research success: the impact of an NSF S-STEM program on student research self-efficacy, science identity, and scientific community values. Experimental Biology, San Diego, CA, USA. April 2020. [Conference cancelled due to COVID-19.]
+
+- **Elliott DB**, Baumann Z, Baumann H. Mercury as a proxy for food consumption in fish. 1st Annual BioSci Regional Symposium, Tempe, AZ, USA. November 2019.
+
+- **Elliott DB**, Baumann Z, Baumann H. Can we use mercury levels to track how much a fish eats? Mystic Aquarium, Mystic, CT, USA. July 2019.
+
+- **Elliott DB**, Youngblood JP, Cease AJ, Angilletta MJ. Effects of temperature and nutrition on short-term growth rate of the South American locust (Schistocerca cancellata). ASU’s 26th Annual Undergraduate Research Symposium, Tempe, AZ, USA. March 2019.
+
+**TEACHING EXPERIENCE**
+
+*Arizona State University*
+
+LEAP Teaching Assistant / August 2019 — May 2020
+
+- Encouraged undergraduates in learning techniques for collecting and analyzing data, facilitated class discussions, assisted with class logistics, and graded weekly homework
+
+*Cuyamaca Community College*
+
+Chemistry Tutor / September 2016 — June 2017
+
+- Assisted students in supplemental learning and clarification of general and organic chemistry concepts via individual tutoring and walk-in workshops
+
+*Amgen Biotech Experience*
+
+Lab Assistant / December 2016 — June 2017 
+
+- Instructed science teachers in how to present a forensic DNA lab scenario; Supervised teachers and students in micropipetting and gel electrophoresis techniques
+
+**CUSTOMER SERVICE EXPERIENCE**
+
+*Domino’s | Goleta, CA*
+
+Delivery Driver / January 2022 – present
+
+- Efficiently deliver orders to customers’ houses; Take and safely prepare customer orders
+
+*Marco’s Pizza | Meridian, ID*
+
+Delivery Driver / August 2020 – August 2021
+
+- Efficiently deliver orders to customers’ houses; Take and safely prepare customer orders; Responsible for opening/closing duties, sanitizing, dishes, and food preparation
+
+*San Diego County Fair | Del Mar, CA*
+
+Parking & Traffic Director / Summer 2017 & 2018 
+
+- Directed traffic from five directions, coming into and out of the fairgrounds; Supervised parking in unmarked dirt lot; Assisted patrons with directions and other questions 
+
+**AWARDS & ACKNOWLEDGEMENTS**
+
+*National Science Foundation LEAP Scholar / August 2017—May 2020*
+
+- Selected to be one of ten undergraduate students to participate in a highly competitive research program – Arizona State University’s LEAP Scholars Program. It provides scholarships and research experiences for academically talented community college transfer students.
+
+*ASU College of Liberal Arts & Sciences Dean’s List / Fall 2017—Spring 2020*
+
+- Recognized for academic achievement by Arizona State University’s College of Liberal Arts and Sciences for six semesters.
+
+*NSF Research Experience for Undergraduates / June 2019—August 2019*
+
+- Selected to be one of eight undergraduate students to participate in a highly competitive, 10-week research program— University of Connecticut’s Marine Biology REU.  This program provides summer research experiences for promising undergraduate students. 
+ 
+**RESEARCH SKILLS**
+
+- Literature review, experimental question development, experimental design, survey development, data coding & analysis, manuscript review & proofing, presenting & scientific communication
+
+**TECHNICAL SKILLS**
+
+- Incubation chamber operation, stereomicroscopy, bomb calorimeter operation, chemical synthesis & analysis, dichotomous key usage, insect husbandry, fish rearing & husbandry, ecological census techniques, vegetation surveillance 
+
+**COMPUTER SKILLS**
+
+- R programming language, Shinyapp programming, ImageJ photo processing software, LoggerPro data collection & graphing software, Microsoft Office programs

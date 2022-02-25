@@ -1,10 +1,5 @@
 ---
 title: "About Me"
-description: | 
-  Deanna Elliott graduated magna cum laude from Arizona State University in 2020. Her Bachelor’s degree in Biological Sciences focused on conservation biology and ecology. During her undergraduate career, she investigated how climate change may affect the development and behavior of agricultural pests. This led to her initial interest in environmental conservation. She later interned in the Marine Biology Department at the University of Connecticut. In their fish ecology lab, she explored whether the accumulation of heavy metals in fish could provide insight into the health of trophic webs. This experience led to her passion for combining ecological and political knowledge to improve ocean protections. She also considers indigenous stewardship an important and underutilized aspect of the conservation conversation. Ultimately, Deanna desires to develop fiscally feasible and community-oriented methods of ocean conservation while specializing in Economics and Politics of the Environment at the Bren School.
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
+I graduated magna cum laude from Arizona State University in 2020. My Bachelor’s degree in Biological Sciences focused on conservation biology and ecology. During my undergraduate career, I investigated how climate change may affect the development and behavior of agricultural pests. This led to my initial interest in environmental conservation. I later interned in the Marine Biology Department at the University of Connecticut. In their fish ecology lab, I explored whether the accumulation of heavy metals in fish could provide insight into the health of trophic webs. This experience led to my passion for combining ecological and political knowledge to improve ocean protections. I also consider indigenous stewardship an important and underutilized aspect of the conservation conversation. Ultimately, I desire to develop fiscally feasible and community-oriented methods of ocean conservation while specializing in Economics and Politics of the Environment at the Bren School.

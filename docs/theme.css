@@ -62,16 +62,16 @@ d-appendix {
 
 .distill-site-header {
   --title-size:       18px;    
-  --text-color:       #ff414b; /* edited */
-  --text-size:        15px;
-  --hover-color:      #dd424c; /* edited */
-  --bkgd-color:       #ffd8db; /* edited */
+  --text-color:       #444444; /* edited */
+  --text-size:        20px;
+  --hover-color:      #e9d715; /* edited */
+  --bkgd-color:       #6fa8dc; /* edited */
 }
 
 .distill-site-footer {
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
-  --hover-color:      white;
+  --hover-color:      #6fa8dc;
   --bkgd-color:       #0F2E3D;
 }
 
@@ -81,7 +81,7 @@ d-appendix {
 /* Change bullets */
 ul > li::marker {
   font-size: 1.125em;
-  color: #ff414b;
+  color: #16537e;
 }
 
 /* Change link appearance */
