@@ -106,7 +106,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title"]}},"value":[{"type":"character","attributes":{},"value":["Portfolio"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","html_document"]}},"value":[{"type":"character","attributes":{},"value":["Portfolio"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["theme","code_folding"]}},"value":[{"type":"character","attributes":{},"value":["darkly"]},{"type":"character","attributes":{},"value":["hide"]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2392,8 +2392,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <a href="index.html">Home</a>
 <a href="about.html">About</a>
 <a href="cv.html">CV</a>
-<a href="portfolio.html">Portfolio</a>
-<a href="blog.html">Blog</a>
+<a href="blog.html">Portfolio</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
 </nav>
@@ -2411,7 +2410,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<h3 id="historical-water-levels-of-mono-lake">Historical Water Levels of Mono Lake</h3>
+<h2 id="historical-water-levels-of-mono-lake">Historical Water Levels of Mono Lake</h2>
 <div class="layout-chunk" data-layout="l-body">
 
 </div>
@@ -2419,6 +2418,68 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <p><img src="portfolio_files/figure-html5/unnamed-chunk-2-1.png" width="624" /></p>
 </div>
 <p><strong>Figure 1. Yearly water level of Mono Lake.</strong> Water level (in feet above sea level) of Mono Lake, a terminal saline lake in Lee Vining, CA, measured annually from 1850 - 2017. The blue line shows lake level, red points show important events in the recent history of Mono Lake, and dashed lines represent important water levels.</p>
+<hr />
+<h2 id="a-time-series-visualization-for-willamette-falls-fish-ladder">A Time Series Visualization for Willamette Falls Fish Ladder</h2>
+<h3 class="tabset tabset-pills" id="overview">Overview</h3>
+<p>This report explores the timing of adult fish passage through the Willamette Falls fish ladder on the Willamette River in Oregon. We focus on three species: coho salmon, jack coho samon, and steelhead trout. Time series data from the <em>Columbia River Data Access in Real Time</em> project is used to create visualizations for daily counts, seasonality trends, and annual counts of each species for the years 2001-2010.</p>
+<p><br></p>
+<p><img src="images/wmf.png" alt="Willamette Falls Fish Ladder, 1913. Source: OldOregonPhotos.com" /> Willamette Falls Fish Ladder, 1913. Source: OldOregonPhotos.com</p>
+<p><br></p>
+<p><img src="images/wf_map.jpg" alt="Source: US Army Corps of Engineers, Portland District Website" /> Source: US Army Corps of Engineers, Portland District Website</p>
+<p><br></p>
+<p>Data Source: <strong>Columbia River DART (Data Access in Real Time), 2010.</strong> Courtesy of U.S. Army Corps of Engineers, NWD and Chelan, Douglas, and Grant County PUDs, Yakima Klickitat Fisheries Project, Colville Tribes Fish &amp; Wildlife (OBMEP), Oregon Department of Fish &amp; Wildlife, Washington Department of Fish &amp; Wildlife.</p>
+<p><br></p>
+<h4 id="daily-time-series">Daily Time Series</h4>
+<div class="layout-chunk" data-layout="l-body">
+
+</div>
+<div class="layout-chunk" data-layout="l-body">
+<p><img src="portfolio_files/figure-html5/unnamed-chunk-4-1.png" width="624" style="display: block; margin: auto;" /></p>
+</div>
+<p><strong>Figure 1. Daily passage counts.</strong> Counts for three species of fish–Coho, Jack Coho, and Steelhead–passing through the Willamette Falls fish ladder are shown daily for the years 2001-2010.</p>
+<p><br></p>
+<p><strong>Take-Aways:</strong></p>
+<ul>
+<li>Steelhead counts are generally the highest of the three species.
+<ul>
+<li>There seems to be a seasonal pattern, as more pass through the ladder at certain times of year, but there does not seem to be an overall trend to the actual number that do so.</li>
+</ul></li>
+<li>Coho counts usually fall between steelhead and jack coho, excepting a few points, mainly two huge spikes in 2010.</li>
+<li>Jack coho counts are generally the lowest of the three species.</li>
+</ul>
+<p><br></p>
+<h4 id="seasonplots">Seasonplots</h4>
+<div class="layout-chunk" data-layout="l-body">
+<p><img src="portfolio_files/figure-html5/unnamed-chunk-5-1.png" width="624" style="display: block; margin: auto;" /></p>
+</div>
+<p><strong>Figure 2. Monthly Average Passage.</strong> Average counts for three species of fish–Coho, Jack Coho, and Steelhead–passing through the Willamette Falls fish ladder are shown monthly for the years 2001-2010.</p>
+<p><br></p>
+<p><strong>Take-Aways:</strong></p>
+<ul>
+<li>Coho and jack coho have similar seasonality, with passage occurring from the end of summer to the beginning of winter (concentrated in fall).
+<ul>
+<li>Their peaks of activity generally look to be from September to October.</li>
+</ul></li>
+<li>Steelhead have a much broader stretch of activity, from January to June (midwinter to midsummer).
+<ul>
+<li>Their peak of activity generally looks to be from May to June.</li>
+</ul></li>
+<li>2009 and 2010 were unusually productive years for coho salmon.</li>
+</ul>
+<p><br></p>
+<h4 id="annual-counts-by-species">Annual Counts by Species</h4>
+<div class="layout-chunk" data-layout="l-body">
+<p><img src="portfolio_files/figure-html5/unnamed-chunk-6-1.png" width="624" style="display: block; margin: auto;" /></p>
+</div>
+<p><strong>Figure 3. Annual Passage Count.</strong> Annual counts for three species of fish–Coho, Jack Coho, and Steelhead–passing through the Willamette Falls fish ladder are shown for the years 2001-2010.</p>
+<p><br></p>
+<p><strong>Take-Aways:</strong></p>
+<ul>
+<li>Steelhead counts are generally much higher than either of the other two species, but the actual number of fish passing through is rather unpredictable year-to-year.</li>
+<li>Coho counts are relatively stable until they hit a massive peak in the later years of the dataset.</li>
+<li>Jack coho counts are very low and stay consistent over the life of the data.</li>
+</ul>
+<p><br></p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
